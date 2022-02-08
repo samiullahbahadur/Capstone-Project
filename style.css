@@ -295,7 +295,7 @@
 
 #speakers {
   display: grid;
-  padding-top: 10px;
+  grid-template-columns: 1fr;
 }
 
 .grid-item {
@@ -306,6 +306,9 @@
 
 .grid-item img {
   height: 120px;
+  background-image: url("/assets/images/patern.png");
+  background-size: 70px;
+  background-repeat: no-repeat;
   padding: 15px 0 0 15px;
 }
 

@@ -1,33 +1,38 @@
-# Badakhsh Portfolio
+# Capstone Project
 
-> First Web project at Microvers.
-> ![screenshot](./image/screenshot.png)
+> A Website for the Creative Commons Global Summits 2022.
 
-In this Project, I used HTML and CSS (Media, Transition, flexbox, Grid and more) on developing one of Microverse Templates
+- Mobile ScreenShot
+- ![Mobile screenshot](./assets/images/mob-screen.jpg).
+- Desktop ScreenShot
+- ![Desktop screenshot](./assets/images/desk-screen.jpg).
+- [Video Demo](https://)
+
+## Getting Started
+
+### Prerequisites
+
+> Please Make sure to have upto date Browsers inorder to find the pages fully functional.
+
+### Setup
+
+> Inorder to setup the project, required to have a Hosting as well as Domain name.
 
 ## Built With
 
 - HTML
 - CSS
-- JavaScript
+- Javascript
 
 ## Live Demo
 
-- [Badakhsh-Portfolio](https://sediqullahbadakhsh.github.io/badakhsh-portfolio/).
+- [Bahadur-Capstone](https://samiullahbahadur.github.io/Capstone1/).
 
-## Authors
+👤 **Samiullah Bahadur**
 
-👤 **Sediqullah Badakhsh**
-
-- GitHub: [@Badakhsh](https://github.com/sediqullahbadakhsh)
-- Twitter: [@Badakhsh](https://twitter.com/sediqullah6)
-- LinkedIn: [@Badakhsh](https://linkedin.com/in/sediqullah-badakhsh-999053a8)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [Badakhsh-Portfolio](https://sediqullahbadakhsh.github.io/badakhsh-portfolio/).
+- GitHub: [@samiullahbahadur](https://github.com/samiullahbahadur)
+- Twitter: [@samiullahbahadur](https://twitter.com/@Samiull88496331)
+- LinkedIn: [@samiullahbahadur](https://linkedin.com/in/samiullah-bahadur-a1b053149/)
 
 ## Show your support
 
@@ -35,4 +40,8 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](LICENSE.md) licensed.
+
+## Design Credits
+
+- Design: [@Cindy Shin in Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)

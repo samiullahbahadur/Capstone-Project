@@ -6,7 +6,6 @@
 - ![Mobile screenshot](./assets/images/mob-screen.jpg).
 - Desktop ScreenShot
 - ![Desktop screenshot](./assets/images/desk-screen.jpg).
-- [Video Demo](https://)
 
 ## Getting Started
 
@@ -23,10 +22,6 @@
 - HTML
 - CSS
 - Javascript
-
-## Live Demo
-
-- [Bahadur-Capstone](https://samiullahbahadur.github.io/Capstone1/).
 
 👤 **Samiullah Bahadur**
 

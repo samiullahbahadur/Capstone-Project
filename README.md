@@ -6,8 +6,7 @@
 - ![Mobile screenshot](./assets/images/mob-screen.jpg).
 - Desktop ScreenShot
 - ![Desktop screenshot](./assets/images/desk-screen.jpg).
-
-## Getting Started
+- [Video Demo](https://www.loom.com/share/55b0d3f57abe42b1b715afe0cafdadb3)
 
 ### Prerequisites
 
@@ -22,6 +21,10 @@
 - HTML
 - CSS
 - Javascript
+
+## live Demo
+
+- [First-Capstone](https://samiullahbahadur.github.io/Capstone1/).
 
 👤 **Samiullah Bahadur**
 

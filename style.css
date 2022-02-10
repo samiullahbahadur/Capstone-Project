@@ -523,7 +523,7 @@
   position: relative;
 }
 
-.events div:before {
+.events div::before {
   background-color: rgba(226, 88, 88, 0.658);
   content: "";
   display: block;
@@ -538,11 +538,13 @@
   background-size: cover;
   z-index: 2;
 }
+
 .events .event2 {
   background-image: url("./assets/images/event2.jpg");
   background-size: cover;
   z-index: 2;
 }
+
 .event-title {
   padding-top: 50px;
   font-size: 30px;
@@ -553,12 +555,6 @@
   padding: 10px 30px 50px;
   font-size: 20px;
   color: #fff;
-}
-
-.event2 {
-  background-image: url("/assets/images/event2.jpg");
-  background-size: cover;
-  z-index: 2;
 }
 
 #footer-about {
@@ -621,7 +617,7 @@
 
   .grid-item img {
     height: 150px;
-    background-image: url("/assets/images/patern.png");
+    background-image: url("./assets/images/patern.png");
     background-size: 100px;
     background-repeat: no-repeat;
     margin: 15px 0 0 15px;
@@ -809,13 +805,6 @@
   .grid-item h4 {
     margin-top: 15px;
   }
-  .grid-item img {
-    height: 120px;
-    background-image: url("./assets/images/patern.png");
-    background-size: 70px;
-    background-repeat: no-repeat;
-    padding: 15px 0 0 15px;
-  }
 
   /******  Partners  *******/
   #partner {
@@ -863,9 +852,11 @@
     display: flex;
     column-gap: 20px;
   }
+
   .event1 {
     width: 350px;
   }
+
   .event2 {
     width: 350px;
   }

@@ -602,7 +602,7 @@
   justify-content: space-around;
   align-items: center;
   padding: 30px;
-  color: white;
+  color: black;
 }
 
 #footer-about img {
@@ -907,7 +907,6 @@
     justify-content: space-around;
     align-items: center;
     padding: 30px;
-    color: white;
   }
 
   #footer-about img {
@@ -919,5 +918,6 @@
   #footer-about p {
     font-size: 12px;
     width: 60%;
+    color: white;
   }
 }

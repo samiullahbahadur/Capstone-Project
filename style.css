@@ -306,7 +306,7 @@
 
 .grid-item img {
   height: 120px;
-  background-image: url("/assets/images/patern.png");
+  background-image: url("./assets/images/patern.png");
   background-size: 70px;
   background-repeat: no-repeat;
   padding: 15px 0 0 15px;
@@ -513,7 +513,7 @@
 
 .events {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 370px;
   row-gap: 20px;
 }
 
@@ -523,8 +523,8 @@
   position: relative;
 }
 
-.events div::before {
-  background-color: rgb(233 30 30 / 65.8%);
+.events div:before {
+  background-color: rgba(226, 88, 88, 0.658);
   content: "";
   display: block;
   height: 100%;
@@ -534,11 +534,15 @@
 }
 
 .event1 {
-  background: url("/assets/images/event1.jpg");
+  background-image: url("./assets/images/event1.jpg");
   background-size: cover;
   z-index: 2;
 }
-
+.events .event2 {
+  background-image: url("./assets/images/event2.jpg");
+  background-size: cover;
+  z-index: 2;
+}
 .event-title {
   padding-top: 50px;
   font-size: 30px;
@@ -555,6 +559,26 @@
   background-image: url("/assets/images/event2.jpg");
   background-size: cover;
   z-index: 2;
+}
+
+#footer-about {
+  background-color: var(--primary-color);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+  color: white;
+}
+
+#footer-about img {
+  background-color: var(--tertiary-color);
+  width: 80px;
+  padding: 15px 0 0 15px;
+}
+
+#footer-about p {
+  font-size: 12px;
+  width: 60%;
 }
 
 /******  Bigger Screen  ******/
@@ -598,9 +622,9 @@
   .grid-item img {
     height: 150px;
     background-image: url("/assets/images/patern.png");
-    background-size: 70px;
+    background-size: 100px;
     background-repeat: no-repeat;
-    padding: 15px 0 0 15px;
+    margin: 15px 0 0 15px;
   }
 
   .partner img {
@@ -785,6 +809,13 @@
   .grid-item h4 {
     margin-top: 15px;
   }
+  .grid-item img {
+    height: 120px;
+    background-image: url("./assets/images/patern.png");
+    background-size: 70px;
+    background-repeat: no-repeat;
+    padding: 15px 0 0 15px;
+  }
 
   /******  Partners  *******/
   #partner {
@@ -829,7 +860,13 @@
   }
 
   .events {
-    grid-template-columns: 1fr 1fr;
+    display: flex;
     column-gap: 20px;
+  }
+  .event1 {
+    width: 350px;
+  }
+  .event2 {
+    width: 350px;
   }
 }

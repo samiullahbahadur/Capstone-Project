@@ -24,7 +24,7 @@
 
 ## live Demo
 
-- [First-Capstone](https://samiullahbahadur.github.io/Capstone1/).
+- [First-Capstone](https://samiullahbahadur.github.io/Capstone/).
 
 👤 **Samiullah Bahadur**
 
